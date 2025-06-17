@@ -1,4 +1,4 @@
-(segment) bhanu@bhanu-Q670M-vPro:/media/bhanu/data/pvcnn$ pip list
+(segment) data/pvcnn$ pip list
 Package                   Version
 ------------------------- -----------
 addict                    2.4.0
